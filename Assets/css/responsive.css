@@ -1,0 +1,280 @@
+@media only screen and (max-width: 576px) {
+
+
+    .main {
+        width: 100%;
+        overflow: hidden;
+    }
+
+    nav.navigation {
+        width: 100%;
+        background-size: cover;
+        background-position: center center;
+        background-repeat: no-repeat;
+        padding: 76px 0px;
+    }
+
+    ul.menubar li {
+        display: block;
+        padding: 10px;
+    }
+
+    ul.menubar {
+        width: 51%;
+        float: right;
+        background: #0201018f;
+        display: none
+    }
+
+    div.captionText {
+        padding: 0px;
+        width: 100%;
+        letter-spacing: 2px;
+    }
+
+    div.navButton {
+        padding: 36px 48px;
+        left: 29%;
+        top: 55%;
+    }
+
+    section.overPosition {
+        position: initial;
+        height: 100%;
+    }
+
+    .imageClass, .imageClass2 {
+        width: 100%;
+    }
+
+    section#aboutRef {
+        display: block;
+        width: 100%;
+        position: initial;
+    }
+
+    section.recentWork {
+        padding: 0px;
+    }
+
+    .mySelfPhoto {
+        width: 100%;
+        border-radius: 0;
+        margin-top: 4rem;
+    }
+
+    .textContent {
+        width: 100%;
+        height: auto;
+        border-top-right-radius: initial;
+        border-bottom-left-radius: 20px;
+        padding: 40px;
+    }
+
+    .corouselContainer {
+        margin: 0;
+    }
+
+    .recentworkText {
+        font-size: 30px;
+        margin-top: 36px;
+    }
+
+    section.recentWork .corouselContainer .owl-carousel .item {
+        width: 80%;
+        margin: auto;
+    }
+
+    .sliderIcon {
+        top: 9px;
+        right: 12px;
+    }
+
+    .photoCaption {
+        bottom: 10px;
+        left: 8px;
+    }
+
+    .photoCaption h2 {
+        font-size: 40px;
+    }
+
+    .photoCaption span {
+        font-size: 26px;
+        color: white;
+    }
+
+    section.portfolioSection {
+        padding: 0px;
+        margin-top: 4rem;
+    }
+
+    div#portfolioRef {
+        width: 100%;
+        margin: auto;
+        text-align: center;
+        font-size: 23px;
+        margin-bottom: 23px;
+        padding: 20px;
+    }
+
+    .portfolioGallary {
+        width: 100%;
+        margin: 0px;
+        float: none;
+        margin-bottom: 10px;
+    }
+
+    .portfolioGallary img {
+        width: 100%;
+    }
+
+    .activityCarouselImage {
+        width: 100%;
+    }
+
+    .activityImageCaption {
+        width: 104px;
+        padding: 5px;
+        bottom: 8px;
+    }
+
+    .sectionCaption {
+        width: 100%;
+        text-align: center;
+    }
+
+    .activityImageOverlay h1 {
+        width: 100%;
+        padding: 5px;
+        font-size: 13px;
+        bottom: 40px;
+    }
+
+    .activityImageOverlay h3 {
+        width: 100%;
+        font-size: 16px;
+        left: 0px;
+    }
+    
+section#testimonialRef {
+    padding: 30px 0px;
+}
+
+.testimonialText {
+    width: 100%;
+    font-size: 20px;
+}
+.avaterFLex {
+    width: 100%;
+}
+.avater {
+    width: 80px;
+    height: 80px;
+}
+section.twiteSection {
+    padding: 60px 0px;
+}
+.twiteblock {
+    float: initial;
+    margin: auto;
+    width: 92%;
+    padding: 55px 13px;
+    margin-bottom: 3rem;
+}
+.instaCarouselContainer {
+    width: 100%;
+    float: none;
+    padding: 0px 0px;
+}
+ul.socialNav {
+    width: 63%;
+    margin: auto;
+}
+.navButton button {
+    padding: 8px 12px;
+}
+section.googleMapSection {
+    display: initial;
+    overflow: hidden;
+}
+
+.googleMap {
+    width: 100%;
+    padding-bottom: 41px;
+    height: 402px;
+}
+
+div#contractRef {
+    width: 100%;
+}
+.contractFormBox {
+    width: 100%;
+}
+button.contractButton{
+    width: 77%;
+    margin: auto;
+}
+.portfolioText h3 {
+    width: 181px;
+}
+
+.activitySection {
+    padding: 2px;
+}
+
+.sectionCaption {
+    margin-top: 15px;
+}
+.activityImageCaption h1 {
+    width: 203px;
+    font-size: 17px;
+}
+div.captionText h1 {
+    font-size: 25px;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
+nav.navigation {
+    padding: 120px 0px;
+}
+.twiterWectionWraper {
+    padding: 0;
+    overflow: initial;
+    margin: 0;
+}
+.blogNavigation {
+    padding: 120px 0px;
+    background-position: 70% 0%;
+}
+h1.captionText {
+    width: 80%;
+    margin-top: 12rem;
+    font-size: 32px;
+}
+.blogDisplayFlex {
+    display: initial;
+}
+
+.blogImg {
+    width: 100%;
+    padding: 0;
+}
+.blogNewsBlock {
+    width: 100%;
+    padding: 0;
+    margin-top: 25px;
+}
+.blogCaption {
+    padding-top: 2rem;
+}
+.blogDescriptioN {
+    width: 100%;
+    margin-bottom: 5rem;
+}
+section.blogNews {
+    margin-bottom: 0;
+}
+
+}
